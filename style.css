@@ -1,0 +1,11 @@
+button:hover {
+  background-color: red;
+  cursor: pointer;
+}
+button:active {
+  background-color: green;
+}
+@media screen and (max-width: 768px) {
+  h1 {
+  }
+}
